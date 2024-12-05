@@ -1,0 +1,1 @@
+# API.Propria.Loja.Cliente
